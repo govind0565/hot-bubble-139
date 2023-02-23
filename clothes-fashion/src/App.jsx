@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <AllRoutes />
+      <AllRoutes  marginTop="80px" />
      
     </div>
   );
