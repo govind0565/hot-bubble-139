@@ -5,8 +5,20 @@
             "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7104af2e/80119544_425_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
             "description":"Dump Him Cropped High-Neck Tank",
             "cost":12.48
+        },
 
+        {
+            "id": 2,
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1eeb8be8/80119543_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "description":"Rhinestone Heart High-Neck Cropped Tank",
+            "cost":12
+        },
 
+        {
+            "id": 3,
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe7fb51ad/80119492_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "description":"Rhinestone Heart High-Neck Cropped Tank",
+            "cost":12
         }
     ]
 }
