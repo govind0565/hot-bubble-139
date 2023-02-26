@@ -49,26 +49,20 @@ export default function Women() {
     dispatch({ type: "FETCH_SUCCESS", payload: sortedData })
    };
 
-   const handleBreedSelect = (event) => {
-    const selectedBreed = event.target.value;
-    const filteredData = data.filter((cat) => cat.breed === selectedBreed);
-    dispatch({ type: "FETCH_SUCCESS", payload: filteredData })
-   };
+   
 
    useEffect(() => {
     dispatch({ type:"FETCH_INIT" });
-    fetch(`http://localhost:9090/Women`)
+    fetch(`http://localhost:9090/WomenProd`)
     .then((response) => response.json())
     .then((data) => {
-      const catsData = data.map((cat) => {
+      const catsData = data.map((item) => {
         return {
-          id: cat.id,
-          image: cat.image,
-          name: cat.name,
+          id: item.id,
+          image: item.image,
+          title: item.title,
           cost: Math.floor(Math.random() * 200) + 100,
-          likes: Math.floor(Math.random() * 1000) + 500,
-          breed: cat.breed,
-          description: cat.description,
+          
         };
       });
       dispatch({ type: "FETCH_SUCCESS", payload: catsData })
@@ -96,15 +90,7 @@ export default function Women() {
           Sort by Desc
         </Button>
       </div>
-      <Center>
-        <Select placeholder="select option" onChange={handleBreedSelect}>
-          <option value="Peterbald">Peterbald</option>
-          <option value="Nebelung">Nebelung</option>
-          <option value="Persian">Persian</option>
-          <option value="Birman">Birman</option>
-          <option value="Himalayan">Himalayan</option>
-        </Select>
-      </Center>
+      
 
       {/* Map the below container against your data */}
       <Spinner />
@@ -118,7 +104,7 @@ export default function Women() {
           <VStack spacing={2} p={2}>
             <Text className="name" fontSize={"20px"} fontWeight="bold"></Text>
             <Text className="cost">${items.cost}</Text>
-            <Text className="description">{items.description}</Text>
+            
             <Box gap={5} display="flex" alignItems="center"><Button bg="green">Add to Cart</Button>
             </Box>
           </VStack>
