@@ -108,17 +108,17 @@ export default function Women() {
 
       {/* Map the below container against your data */}
       <Spinner />
-      <SimpleGrid columns={3} spacing={10} className="main_container">
-        {data.map((Women) => (
-          <Box className="catsDetails" key={Women.id}>
+      <SimpleGrid columns={4} spacing={10} className="main_container">
+        {data.map((items) => (
+          <Box className="catsDetails" key={items.id}>
           <Center>
-            <Img src={Women.image} />
+            <Img src={items.image} />
           </Center>
 
           <VStack spacing={2} p={2}>
             <Text className="name" fontSize={"20px"} fontWeight="bold"></Text>
-            <Text className="cost">${Women.cost}</Text>
-            <Text className="description">{Women.description}</Text>
+            <Text className="cost">${items.cost}</Text>
+            <Text className="description">{items.description}</Text>
             <Box gap={5} display="flex" alignItems="center"><Button bg="green">Add to Cart</Button>
             </Box>
           </VStack>
