@@ -57,21 +57,18 @@ export default function Women() {
 
    useEffect(() => {
     dispatch({ type:"FETCH_INIT" });
-    fetch(`http://localhost:9090/Women`)
+    fetch(`http://localhost:9090/WomenProd`)
     .then((response) => response.json())
     .then((data) => {
-      const catsData = data.map((cat) => {
+      const prodData = data.map((item) => {
         return {
-          id: cat.id,
-          image: cat.image,
-          name: cat.name,
+          id: item.id,
+          image: item.image,
+          name: item.title,
           cost: Math.floor(Math.random() * 200) + 100,
-          likes: Math.floor(Math.random() * 1000) + 500,
-          breed: cat.breed,
-          description: cat.description,
         };
       });
-      dispatch({ type: "FETCH_SUCCESS", payload: catsData })
+      dispatch({ type: "FETCH_SUCCESS", payload: prodData })
     })
     .catch((error) => {
       dispatch({ type:"FETCH_FAILURE", payload: error.message })
@@ -96,33 +93,22 @@ export default function Women() {
           Sort by Desc
         </Button>
       </div>
-      <Center>
-        <Select placeholder="select option" onChange={handleBreedSelect}>
-          <option value="Peterbald">Peterbald</option>
-          <option value="Nebelung">Nebelung</option>
-          <option value="Persian">Persian</option>
-          <option value="Birman">Birman</option>
-          <option value="Himalayan">Himalayan</option>
-        </Select>
-      </Center>
+      
 
       {/* Map the below container against your data */}
       <Spinner />
-      <SimpleGrid columns={3} spacing={10} className="main_container">
-        {data.map((cat) => (
-          <Box className="catsDetails" key={cat.id}>
+      <SimpleGrid columns={4} spacing={10} className="main_container">
+        {data.map((items) => (
+          <Box className="catsDetails" key={items.id}>
           <Center>
-            <Img src={cat.image} />
+            <Img src={items.image} />
           </Center>
 
           <VStack spacing={2} p={2}>
-            <Text className="name" fontSize={"20px"} fontWeight="bold">{cat.name}</Text>
-            <Text className="cost">${cat.cost}</Text>
-            <Text className="likes">{cat.likes}</Text>
-            <Text className="breed">{cat.breed}</Text>
-            <Text className="description">{cat.description}</Text>
+            <Text className="name" fontSize={"20px"} fontWeight="bold">{items.name}</Text>
+            <Text className="cost">${items.cost}</Text>
             <Box gap={5} display="flex" alignItems="center"><Button bg="green">Add to Cart</Button>
-            <Button bg="red" className="delete">Delete</Button></Box>
+            </Box>
           </VStack>
         </Box>
         ))}

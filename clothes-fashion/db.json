@@ -1,12 +1,278 @@
 {
-    "Women":[
+    "WomenProd":[
         {
-            "id": 1,
-            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7104af2e/80119544_425_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
-            "description":"Dump Him Cropped High-Neck Tank",
-            "cost":12.48
-
-
+        
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7104af2e/80119544_425_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Dump Him Cropped High-Neck Tank"
+        },
+        {
+        
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1eeb8be8/80119543_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Rhinestone Heart High-Neck Cropped Tank"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe7fb51ad/80119492_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Sports Car Retro Graphic Tank"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5e4f7f67/80644075_818_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Seriously Soft Cowgirl Cropped Baby Tee"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw03b45045/86749372_398_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Cinched Hem Utility Cargo Pants"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw0ae5849f/86749372_214_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Cinched Hem Utility Cargo Pants"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw143faafc/86749372_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Cinched Hem Utility Cargo Pants"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw46f42d17/73252317_535_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Floral Splice Side-Tie Bikini Bottom"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd5d31e7c/73242315_535_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Floral Splice Strappy Halter Bikini Top"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb575f3e7/73252311_861_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Ribbed High-Cut V-Front Cheeky Bikini Bottom"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwce88b076/73242310_861_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Ribbed Cami Bikini Top"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw94f11770/85399422_176_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Low-Rise Denim Shorty Shorts"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwba1f9eb2/85639404_962_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"High-Rise Denim Mom Shorts"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9c9b8a5c/85399415_500_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"High-Rise Denim Shorty Shorts"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa1d0e5d2/83938832_444_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Long Sleeve Oversized Vertical Stripe Button-Down Shirt"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6b23093d/83939186_688_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Long Sleeve Thin Stripe Oversized Button-Down Shirt"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe13fc0a8/83939394_118_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Long Sleeve Colorblocked Oversized Button-Down Shirt"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2aa00f21/83939535_102_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Long Sleeve Thin Stripe Oversized Poplin Button-Down Shirt"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw7207c4b4/80643975_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Dallas Texas Cropped Baby Tee"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2d0c5aa5/80644067_448_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Malibu California Cropped Boyfriend Graphic Tee"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw8d1e6be3/80643998_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Austin Texas Cropped Boyfriend Graphic Tee"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwbfad032a/73252354_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Checker Side-Tie Bikini Bottom"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwec98dfee/73242352_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Checker Crossback Bikini Top"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa77019a5/72773159_007_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"High-Waisted Active A-Line Skort"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw23a85496/81254079_012_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Flex Square-Neck Tennis Dress"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa66f72e0/81254079_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Flex Square-Neck Tennis Dress"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dweeba1a38/81254004_185_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Flex Tennis Dress"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw11c6b648/81254004_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Flex Tennis Dress"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaf69e954/80119542_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Seriously Soft Scoop-Neck Snap Henley Tank"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw70b41784/80119542_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Seriously Soft Scoop-Neck Snap Henley Tank"
+        },
+        {
+        "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw2eb62f75/80119542_664_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+        "title":"Seriously Soft Scoop-Neck Snap Henley Tank"
         }
-    ]
+        ],
+
+        "MensProd":[
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw6bdfc1d6/60232544_254_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Air Softspun Tech Fleece A87 Logo Full-Zip Hoodie",
+            "cost":"$35.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdfc62ebe/60052637_204_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero NYC Box Logo Appliqué Graphic Tee"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwcf72bae0/60013523_053_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero Mountains Graphic Tee"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw4e389060/60232545_254_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Air Softspun Tech Fleece Bomber Jacket",
+            "cost":"$35.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw43f0d62d/62372658_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Tropical Print Button-Down Camp Shirt",
+            "cost":"$18.48"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf3cbace8/64912683_205_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Tech Utility Pants",
+            "cost":"$36.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwe9eec136/60172581_718_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero New York City Vertical Stripe Graphic Tee",
+            "cost":"$14.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw90ab0b51/66112024_067_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Belted 11.5\" Cargo Shorts"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw43de86d5/60052637_052_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero NYC Box Logo Appliqué Graphic Tee"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwee264f50/64912466_269_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Cargo Ripstop Utility Pants",
+            "cost":"$36.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw70d3c86c/68339456_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Hybrid Active Shorts 7\""
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3ce7bd5a/60172586_630_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Allover Pineapple Graphic Tee",
+            "cost":"$14.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb27b04cc/60172695_818_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Solid Curved Hem Crew Tee",
+            "cost":"$14.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw11145931/62342750_202_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Long Sleeve Hooded Twill Button-Down Shirt",
+            "cost":"$23.98"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1ecb3b51/60732538_572_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Striped A87 Track Jacket",
+            "cost":"$29.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb2350d4d/69612546_607_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Air Softspun Tech Fleece Cargo Jogger Sweatpants",
+            "cost":"$29.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1a1f703b/60023085_572_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero Active Pullover Hoodie",
+            "cost":"$20.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb483bb03/60052637_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero NYC Box Logo Appliqué Graphic Tee"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw08bfacc0/60712531_052_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"New York Collegiate Signature Pullover Sweatshirt",
+            "cost":"$20.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw46451b97/60212521_402_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aero 87 Spliced Pullover Hoodie",
+            "cost":"$25.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb8813449/60162012_607_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aeropostale Logo Spliced Graphic Tee",
+            "cost":"$16.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw92f582cb/67630811_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Chicago Bulls Bomber Jacket",
+            "cost":"$53.97"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw20e11eaf/68159085_001_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Chicago Bulls Mesh Shorts 8\""
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw56c0744e/60013713_007_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Aeropostale 1987 Logo Graphic Tee"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwa72a4a41/60212336_177_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Heritage Logo Tape Pullover Hoodie",
+            "cost":"$25.00"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw1ecdbd0a/62372654_363_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Tossed Flower Print Relaxed Button-Down Shirt",
+            "cost":"$18.48"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw17540edb/62342750_162_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Long Sleeve Hooded Twill Button-Down Shirt",
+            "cost":"$23.98"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwaaeb84a4/62342651_150_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Long Sleeve Striped Oxford Button-Down Shirt",
+            "cost":"$22.25"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwb5c9b3f3/62342651_493_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Long Sleeve Striped Oxford Button-Down Shirt",
+            "cost":"$22.25"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwdcb927e5/66112024_023_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Belted 11.5\" Cargo Shorts"
+            },
+            {
+            "image":"https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw78dbbc2e/66312496_176_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg",
+            "title":"Loose Denim Shorts 10\""
+            }
+            ]
 }
